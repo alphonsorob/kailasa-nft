@@ -1,4 +1,4 @@
-# KAILASA-NFT-MARKETPLACE
+# Kailasa-nft-marketplace
 
 Run the following commands to launch the project:
 
